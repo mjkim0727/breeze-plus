@@ -18,6 +18,13 @@ Breeze icon theme is great for KDE and LXQt. But, some icons are missing or don'
 $ yay -S breeze-plus
 ```
 
+* via [Terra repo](https://terra.fyralabs.com) (Fedora and derivatives)
+
+Add the Terra repository to your system then install
+```
+$ sudo dnf install breeze-plus-icon-theme
+```
+
 * via manually
 
 ```
