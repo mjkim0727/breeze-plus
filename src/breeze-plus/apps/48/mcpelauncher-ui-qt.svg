@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="mcpelauncher-ui-qt.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,11 +26,11 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="16.583333"
-     inkscape:cx="23.969849"
+     inkscape:zoom="12.083333"
+     inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-width="1440"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,7 +120,8 @@
   <path
      id="rect1950"
      style="fill:url(#linearGradient3958);fill-opacity:1;stroke-width:0.848005"
-     d="M 4 4 L 4 16 L 8 16 L 8 12 L 12 12 L 12 18 L 16 18 L 16 10 L 20 10 L 20 16 L 24 16 L 24 12 L 28 12 L 28 18 L 32 18 L 32 14 L 36 14 L 36 22 L 40 22 L 40 16 L 44 16 L 44 4 L 4 4 z " />
+     d="m 4,4 v 12 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 6 h 4 v -4 h 4 V 4 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
   <rect
      style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.278205"
      id="rect47-3"
