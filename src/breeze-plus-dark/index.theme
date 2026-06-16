@@ -4,7 +4,7 @@ Comment=Breeze by the KDE VDG with additional icons
 
 DisplayDepth=32
 
-Inherits=breeze-dark,hicolor
+Inherits=breeze-dark,breeze,hicolor
 
 Example=folder
 
@@ -24,7 +24,7 @@ DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
 # Directories
-Directories=apps/16,apps/22,apps/32,apps/48,mimetypes/16,mimetypes/22,mimetypes/32,mimetypes/64,places/16,places/22,places/32,places/48,places/96,places/64,status/16,status/22,status/24,status/32,status/48,status/64
+Directories=apps/16,apps/22,apps/32,apps/48,mimetypes/16,mimetypes/22,mimetypes/32,mimetypes/64,places/16,places/22,places/32,places/48,places/96,places/64,preferences/22,preferences/24,preferences/32,status/16,status/22,status/24,status/32,status/48,status/64
 ScaledDirectories=apps/16@2x,apps/16@3x,apps/22@2x,apps/22@3x,mimetypes/16@2x,mimetypes/16@3x,mimetypes/22@2x,mimetypes/22@3x,places/16@2x,places/16@3x,places/22@2x,places/22@3x,status/16@2x,status/16@3x,status/22@2x,status/22@3x
 
 # Apps
