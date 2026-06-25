@@ -26,11 +26,11 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="12.083333"
-     inkscape:cx="24"
+     inkscape:zoom="1"
+     inkscape:cx="24.5"
      inkscape:cy="24"
-     inkscape:window-width="1440"
-     inkscape:window-height="831"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,8 +120,7 @@
   <path
      id="rect1950"
      style="fill:url(#linearGradient3958);fill-opacity:1;stroke-width:0.848005"
-     d="m 4,4 v 12 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 4 h 4 v -4 h 4 v 6 h 4 v -4 h 4 V 4 Z"
-     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+     d="M 4 4 L 4 16 L 6 16 L 6 12 L 10 12 L 10 16 L 16 16 L 16 12 L 20 12 L 20 16 L 28 16 L 28 12 L 32 12 L 32 16 L 38 16 L 38 12 L 42 12 L 42 16 L 44 16 L 44 4 L 4 4 z " />
   <rect
      style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke-width:0.278205"
      id="rect47-3"
