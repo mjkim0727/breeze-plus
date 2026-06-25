@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-projects.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.3333333"
+     inkscape:cx="47.94"
+     inkscape:cy="48"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Accent { color: #3daee9; } .ColorScheme-Text { color: #fcfcfc; } </style>
+  </defs>
+  <path
+     style="fill:currentColor"
+     d="M 6,9 V 30 H 5 V 87 H 91 V 24 H 90 V 15 H 48 L 42,9 Z"
+     class="ColorScheme-Accent"
+     id="path1"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill-opacity:0.33"
+     d="M 6 9 L 6 30 L 33 30 L 39 24 L 90 24 L 90 15 L 48 15 L 42 9 L 6 9 z "
+     id="path2" />
+  <path
+     style="fill:#ffffff;fill-opacity:0.2"
+     d="M 42 9 L 47 16 L 90 16 L 90 15 L 48 15 L 42 9 z M 39 24 L 33 30 L 5 30 L 5 31 L 34 31 L 39 24 z "
+     id="path3" />
+  <path
+     style="fill-opacity:0.2;fill-rule:evenodd"
+     d="M 39 24 L 32 29 L 6 29 L 6 30 L 33 30 L 39 24 z M 5 86 L 5 87 L 91 87 L 91 86 L 5 86 z "
+     class="ColorScheme-Text"
+     id="path4" />
+  <path
+     id="path5"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:3"
+     class="ColorScheme-Text"
+     d="m 45,40 v 3.304687 c -1.877847,0.387459 -3.663993,1.131356 -5.261718,2.191406 l -2.34375,-2.34375 -4.242189,4.242189 2.34375,2.34375 C 34.440177,51.336895 33.700278,53.12299 33.316407,55 H 30 v 6 h 3.304687 c 0.387459,1.877847 1.13136,3.663993 2.191406,5.261718 l -2.34375,2.34375 4.242189,4.242189 2.34375,-2.34375 C 41.336892,71.559826 43.12299,72.299722 45,72.683593 V 76 h 6 v -3.304688 c 1.877847,-0.387462 3.663993,-1.131355 5.261718,-2.191405 l 2.34375,2.34375 4.242189,-4.242189 -2.34375,-2.34375 C 61.559826,64.663105 62.299722,62.87701 62.683593,61 H 66 V 55 H 62.695312 C 62.30785,53.122153 61.563955,51.336007 60.503907,49.738282 l 2.34375,-2.34375 -4.242189,-4.242189 -2.34375,2.34375 C 54.663105,44.440177 52.87701,43.700278 51,43.316407 V 40 Z m 3,6 c 3.24294,6e-6 6.347813,1.31255 8.607421,3.638671 C 58.783,51.878276 59.999994,54.877663 60,58 c -9e-6,3.24294 -1.31255,6.347813 -3.638672,8.607421 C 54.121724,68.783 51.122337,69.999994 48,70 44.75706,69.999991 41.652187,68.68745 39.392578,66.361328 37.216999,64.121724 36.000009,61.122337 36,58 c 9e-6,-3.24294 1.31255,-6.347813 3.638671,-8.607422 C 41.878276,47.216999 44.877663,46.000009 48,46 Z" />
+</svg>

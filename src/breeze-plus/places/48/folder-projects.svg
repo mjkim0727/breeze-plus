@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-projects.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.666667"
+     inkscape:cx="23.97"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      .ColorScheme-Accent {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 5,6 V 16 H 4 V 42 H 44 V 13 H 43 V 9 H 24 L 21,6 Z"
+     class="ColorScheme-Accent"
+     id="path1" />
+  <path
+     style="fill-opacity:0.33;fill-rule:evenodd"
+     d="m 5,6 v 10 h 12 l 3,-3 H 43 V 9 H 24 L 21,6 Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;fill-opacity:0.2;fill-rule:evenodd"
+     d="M 21 6 L 23 10 L 43 10 L 43 9 L 24 9 L 21 6 z M 20 13 L 17 16 L 4 16 L 4 17 L 18 17 L 20 13 z "
+     id="path3" />
+  <path
+     style="fill-opacity:0.2;fill-rule:evenodd"
+     d="M 20 13 L 16 15 L 5 15 L 5 16 L 17 16 L 20 13 z M 4 41 L 4 42 C 4 42 44 42 44 42 L 44 41 L 4 41 z "
+     class="ColorScheme-Text"
+     id="path4" />
+  <path
+     id="path5"
+     style="opacity:0.6;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 24 20 C 23.32479 20.004 22.65279 20.09299 22 20.265625 L 22 21.298828 L 22 21.310547 C 21.543807 21.446943 21.102721 21.629529 20.683594 21.855469 L 20.675781 21.847656 L 19.943359 21.115234 C 18.776409 21.803284 17.803284 22.776409 17.115234 23.943359 L 17.636719 24.464844 L 17.855469 24.683594 C 17.628845 25.10263 17.445615 25.543732 17.308594 26 L 17.294922 26 L 16.259766 26 C 16.089144 26.65304 16.00187 27.32505 16 28 C 16.004 28.67521 16.09301 29.34721 16.265625 30 L 17.298828 30 L 17.310547 30 C 17.446943 30.456193 17.629529 30.897279 17.855469 31.316406 L 17.636719 31.535156 L 17.115234 32.056641 C 17.803284 33.223601 18.776399 34.196716 19.943359 34.884766 L 20.464844 34.363281 L 20.683594 34.144531 C 21.102642 34.371143 21.543732 34.554385 22 34.691406 L 22 35 L 22 35.740234 C 22.65304 35.910854 23.32504 35.99813 24 36 C 24.67496 35.9981 25.34696 35.91085 26 35.740234 L 26 35 L 26 34.691406 C 26.456268 34.554385 26.897357 34.371143 27.316406 34.144531 L 27.535156 34.363281 L 28.056641 34.884766 C 29.223601 34.196716 30.196716 33.223601 30.884766 32.056641 L 30.363281 31.535156 L 30.144531 31.316406 C 30.370471 30.897279 30.553057 30.456193 30.689453 30 L 30.701172 30 L 31.734375 30 C 31.907004 29.34721 31.996 28.67521 32 28 C 31.9981 27.32505 31.91085 26.65304 31.740234 26 L 30.705078 26 L 30.691406 26 C 30.554383 25.543732 30.371143 25.102643 30.144531 24.683594 L 30.363281 24.464844 L 30.884766 23.943359 C 30.196716 22.776409 29.223591 21.803284 28.056641 21.115234 L 27.324219 21.847656 L 27.316406 21.855469 C 26.897266 21.629542 26.456193 21.446943 26 21.310547 L 26 21.298828 L 26 20.265625 C 25.34721 20.092996 24.67521 20.004 24 20 z M 24 23 A 5 5 0 0 1 29 28 A 5 5 0 0 1 24 33 A 5 5 0 0 1 19 28 A 5 5 0 0 1 24 23 z " />
+</svg>
