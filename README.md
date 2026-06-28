@@ -53,3 +53,5 @@ $ ./install-system-wide.sh
 [ ] LXQt Support
 
 [x] Wine App icons support
+
+[ ] Games App icons support
